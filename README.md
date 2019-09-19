@@ -4,3 +4,6 @@ Página estática criada para simular um site pessoal. Exercício ofertado pela 
 Requisitos:
 - Vídeo de origem local: Foi aplicado como background do site;
 - Área circular com a tag MAP, direcionando para o Google: No urso de pelúcia da foto;
+
+
+Link GitHub Pages: https://munyrasirio.github.io/forumunopar/
